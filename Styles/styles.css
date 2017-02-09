@@ -1,0 +1,17 @@
+.content
+{
+	height: 300 px;
+	height: -webkit-calc(1000px);
+	background: #80ffff;
+	line-height: 100 px;
+}
+
+.title
+{
+	height: 10 px;
+	height: -webkit-calc(50px);
+	background: #ffff00;
+	line-height: 10 px;
+	font-size: 30;
+	font-style: italic;
+}
